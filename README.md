@@ -105,3 +105,177 @@ const saurabh = {
 </p>
 
 <img width="100%" src="./assets/divider.svg"/>
+
+<img width="100%" src="./assets/divider.svg"/>
+
+# <img width="30" src="https://img.icons8.com/color/48/project.png"/> Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 Top Universities in India
+
+A university discovery platform inspired by CollegeDunia & Shiksha with modern UI, SEO-friendly pages and admin management.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,js"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td>
+
+<img src="./assets/projects/top-university.png"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="./assets/projects/hotel-spark.png"/>
+
+</td>
+
+<td width="50%">
+
+### 🏨 Hotel The Spark
+
+Complete hotel booking platform featuring authentication, room management, booking system and admin dashboard.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js"/>
+
+<br><br>
+
+<a href="YOUR_GITHUB_LINK">
+<img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 📝 Blog Management System
+
+Laravel based blog CMS with authentication, CRUD, categories and dashboard.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql"/>
+
+</td>
+
+<td>
+
+<img src="./assets/projects/blog-cms.png"/>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<table>
+
+<tr>
+
+<td>
+
+<img src="./assets/projects/ecommerce.png"/>
+
+</td>
+
+<td width="50%">
+
+### 🛒 E-Commerce Platform
+
+Modern shopping platform with authentication, cart, orders and admin dashboard.
+
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=laravel,mysql,js"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<img width="100%" src="./assets/divider.svg"/>
+
+# <img width="30" src="https://img.icons8.com/color/48/briefcase.png"/> Experience
+
+| Company | Role | Duration |
+|----------|------|----------|
+| Digital Brain Media | Laravel Developer | Jun 2026 – Present |
+| Websofy Software Pvt. Ltd. | Laravel Developer | Oct 2025 – Jun 2026 |
+| DigiCoders Technologies | PHP Full Stack Developer | Mar 2025 – Oct 2025 |
+
+<img width="100%" src="./assets/divider.svg"/>
+
+# <img width="30" src="https://img.icons8.com/color/48/combo-chart--v1.png"/> GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-saurabh495&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-saurabh495&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# <img width="30" src="https://img.icons8.com/color/48/fire-element.png"/> GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=dev-saurabh495&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# <img width="30" src="https://img.icons8.com/color/48/activity-history.png"/> Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-saurabh495&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<img width="100%" src="./assets/divider.svg"/>
