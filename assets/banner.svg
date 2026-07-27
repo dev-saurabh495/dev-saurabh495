@@ -1,0 +1,142 @@
+<svg width="1600" height="500" viewBox="0 0 1600 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#020617"/>
+<stop offset="50%" stop-color="#0F172A"/>
+<stop offset="100%" stop-color="#2563EB"/>
+</linearGradient>
+
+<linearGradient id="text" x1="0%" y1="0%" x2="100%">
+<stop offset="0%" stop-color="#38BDF8"/>
+<stop offset="100%" stop-color="#60A5FA"/>
+</linearGradient>
+
+<filter id="shadow">
+<feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#38BDF8"/>
+</filter>
+
+</defs>
+
+<rect width="1600" height="500" fill="url(#bg)"/>
+
+<!-- Grid -->
+
+<g opacity=".08">
+
+<path d="M0 50H1600"/>
+<path d="M0 100H1600"/>
+<path d="M0 150H1600"/>
+<path d="M0 200H1600"/>
+<path d="M0 250H1600"/>
+<path d="M0 300H1600"/>
+<path d="M0 350H1600"/>
+<path d="M0 400H1600"/>
+<path d="M0 450H1600"/>
+
+<path d="M100 0V500"/>
+<path d="M200 0V500"/>
+<path d="M300 0V500"/>
+<path d="M400 0V500"/>
+<path d="M500 0V500"/>
+<path d="M600 0V500"/>
+<path d="M700 0V500"/>
+<path d="M800 0V500"/>
+<path d="M900 0V500"/>
+<path d="M1000 0V500"/>
+<path d="M1100 0V500"/>
+<path d="M1200 0V500"/>
+<path d="M1300 0V500"/>
+<path d="M1400 0V500"/>
+<path d="M1500 0V500"/>
+
+</g>
+
+<!-- Glow -->
+
+<circle cx="1350" cy="120" r="170" fill="#38BDF8" opacity=".08"/>
+
+<circle cx="1450" cy="370" r="110" fill="#2563EB" opacity=".12"/>
+
+<!-- Name -->
+
+<text
+x="90"
+y="170"
+font-size="72"
+font-family="Segoe UI, Arial"
+font-weight="700"
+fill="white">
+
+SAURABH PANDEY
+
+</text>
+
+<!-- Role -->
+
+<text
+x="95"
+y="225"
+font-size="34"
+font-family="Segoe UI"
+fill="url(#text)">
+
+Laravel Developer • Full Stack Engineer
+
+</text>
+
+<!-- Stack -->
+
+<text
+x="95"
+y="275"
+font-size="24"
+font-family="Segoe UI"
+fill="#CBD5E1">
+
+PHP • Laravel • React • Next.js • MySQL
+
+</text>
+
+<!-- Bottom line -->
+
+<text
+x="95"
+y="340"
+font-size="22"
+font-family="JetBrains Mono"
+fill="#94A3B8">
+
+BUILD • LEARN • SHIP
+
+</text>
+
+<!-- SP -->
+
+<text
+x="1235"
+y="305"
+font-size="170"
+font-family="Segoe UI"
+font-weight="700"
+fill="url(#text)"
+filter="url(#shadow)">
+
+SP
+
+</text>
+
+<!-- Border -->
+
+<rect
+x="15"
+y="15"
+width="1570"
+height="470"
+rx="18"
+stroke="#38BDF8"
+stroke-opacity=".25"
+stroke-width="2"/>
+
+</svg>
