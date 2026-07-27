@@ -22,43 +22,23 @@
 
 # <img width="28" src="https://img.icons8.com/color/48/developer.png"/> About Me
 
-```ts
-const saurabh = {
 
-    role: "Laravel Developer",
+```bash
+$ whoami
 
-    experience: "1.5+ Years",
+Name        : Saurabh Pandey
+Role        : Laravel Developer
+Experience  : 1.5+ Years
+Location    : India
 
-    company: "Digital Brain Media",
+Backend     : Laravel • PHP • REST APIs
+Frontend    : React • Next.js • Tailwind CSS
+Database    : MySQL
+Learning    : TypeScript • System Design
 
-    location: "India",
-
-    backend: [
-        "Laravel",
-        "PHP",
-        "REST APIs",
-        "MySQL"
-    ],
-
-    frontend: [
-        "React",
-        "Next.js",
-        "JavaScript",
-        "Tailwind CSS",
-        "Bootstrap"
-    ],
-
-    currentlyLearning: [
-        "TypeScript",
-        "Node.js",
-        "System Design"
-    ],
-
-    motto:
-      "Build products that solve real-world problems."
-
-}
+Status      : Building modern web applications...
 ```
+
 
 <img width="100%" src="./assets/divider.svg"/>
 
