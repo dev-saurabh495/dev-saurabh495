@@ -175,7 +175,7 @@ Laravel based blog CMS with authentication, CRUD, categories and dashboard.
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=laravel,mysql"/>
+
 
 </td>
 
