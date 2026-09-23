@@ -261,7 +261,8 @@ Modern shopping platform with authentication, cart, orders and admin dashboard.
 </p>
 
 <img width="100%" src="./assets/divider.svg"/>
-## Contribution Snake
+
+# <img width="30" src="https://img.icons8.com/color/48/activity-history.png"/>Contribution Snake
 
 <p align="center">
 
