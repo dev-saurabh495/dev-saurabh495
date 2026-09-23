@@ -255,6 +255,7 @@ Modern shopping platform with authentication, cart, orders and admin dashboard.
 
 <p align="center">
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-saurabh495&theme=tokyo-night&hide_border=true"/>
 
 
 </p>
