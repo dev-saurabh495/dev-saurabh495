@@ -112,7 +112,7 @@ A university discovery platform inspired by CollegeDunia & Shiksha with modern U
 </a>
 
 <a href="YOUR_LIVE_LINK">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
+
 </a>
 
 </td>
