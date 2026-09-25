@@ -147,7 +147,7 @@ Complete hotel booking platform featuring authentication, room management, booki
 
 **Tech Stack**
 
-<img src="https://skillicons.dev/icons?i=php,mysql,bootstrap,js"/>
+
 
 <br><br>
 
