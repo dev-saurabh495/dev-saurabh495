@@ -28,7 +28,7 @@ $ whoami
 Name        : Saurabh Pandey
 Role        : Laravel Developer
 Experience  : 1.5+ Years
-Location    : 
+Location    : India
 
 Backend     : Laravel • PHP • REST APIs
 Frontend    : React • Next.js • Tailwind CSS
