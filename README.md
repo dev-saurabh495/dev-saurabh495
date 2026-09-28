@@ -181,7 +181,7 @@ Laravel based blog CMS with authentication, CRUD, categories and dashboard.
 
 <td>
 
-<img src="./assets/projects/blog-cms.png"/>
+
 
 </td>
 
