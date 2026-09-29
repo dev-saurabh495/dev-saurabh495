@@ -95,7 +95,7 @@ Status      : Building modern web applications...
 
 <tr>
 
-
+<td width="50%">
 
 ### 🎓 Top Universities in India
 
