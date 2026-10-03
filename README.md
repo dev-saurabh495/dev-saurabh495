@@ -40,7 +40,7 @@ Status      : Building modern web applications...
 
 
 <p align="center">
-    <img src="./assets/divider.svg" width="100%" alt="divider">
+    
 </p>
 
 # <img width="28" src="https://img.icons8.com/color/48/source-code.png"/> Tech Stack
