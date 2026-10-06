@@ -33,7 +33,7 @@ Location    : India
 
 Backend     : Laravel • PHP • REST APIs
 Frontend    : React • Next.js • Tailwind CSS
-Database    :
+Database    : MySQL
 Learning    : TypeScript • System Design
 
 Status      : Building modern web applications...
