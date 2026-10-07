@@ -82,7 +82,7 @@ Status      : Building modern web applications...
 
 <p>
 
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux"/>
 
 </p>
 
