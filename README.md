@@ -136,7 +136,7 @@ A university discovery platform inspired by CollegeDunia & Shiksha with modern U
 
 <td>
 
-<img src="./assets/projects/hotel-spark.png"/>
+
 
 </td>
 
