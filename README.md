@@ -260,7 +260,7 @@ Modern shopping platform with authentication, cart, orders and admin dashboard.
 
 </p>
 
-<img width="100%" src="./assets/divider.svg"/>
+
 
 ---
 
