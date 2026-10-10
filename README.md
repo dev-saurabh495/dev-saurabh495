@@ -87,7 +87,7 @@ Status      : Building modern web applications...
 
 </p>
 
-<img width="100%" src="./assets/divider.svg"/>
+
 
 <img width="100%" src="./assets/divider.svg"/>
 
