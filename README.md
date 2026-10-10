@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Laravel+Developer;PHP+Full+Stack+Developer;React+%7C+Next.js+Learner;Building+Scalable+Web+Applications;Always+Learning+Something+New"/>
 
-
+<br>
 
 <a href="https://github.com/dev-saurabh495">
     
