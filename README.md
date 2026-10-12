@@ -32,7 +32,6 @@ Role        : Laravel Developer
 Experience  : 1.5+ Years
 Location    : India
 
-
 Backend     : Laravel • PHP • REST APIs
 Frontend    : React • Next.js • Tailwind CSS
 Database    : MySQL
