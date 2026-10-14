@@ -106,6 +106,7 @@ A university discovery platform inspired by CollegeDunia & Shiksha with modern U
 
 **Tech Stack**
 
+<img src="https://skillicons.dev/icons?i=laravel,mysql,bootstrap,js"/>
 
 <br><br>
 
