@@ -20,9 +20,6 @@
 
 </div>
 
-
-
-
 ---
 
 # <img width="28" src="https://img.icons8.com/color/48/developer.png"/> About Me
