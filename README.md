@@ -52,7 +52,7 @@ Learning    : TypeScript • System Design
 
 <p>
 
-
+<img src="https://skillicons.dev/icons?i=php,js,ts,cpp,python"/>
 
 </p>
 
