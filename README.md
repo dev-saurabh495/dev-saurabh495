@@ -29,7 +29,7 @@
 $ whoami
 
 Name        : Saurabh Pandey
-     : Laravel Developer
+Role        : Laravel Developer
 Experience  : 1.5+ Years
 Location    : India 
 
