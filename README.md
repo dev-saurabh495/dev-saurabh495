@@ -37,7 +37,7 @@ Backend     : Laravel • PHP • REST APIs
 Frontend    : React • Next.js • Tailwind CSS
 Database    : MySQL
 Learning    : TypeScript • System Design
- Status     : Building modern web applications... 
+Status     : Building modern web applications... 
 ```
 
 
