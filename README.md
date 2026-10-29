@@ -4,8 +4,6 @@
 <img src="./assets/banner.svg" width="100%" alt="Saurabh Pandey — Developer Banner" />
 </a>
 
-
-
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+Developer;PHP+Full+Stack+Developer;REST+API+Developer;React+%7C+Next.js+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
