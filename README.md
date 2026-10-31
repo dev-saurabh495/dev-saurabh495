@@ -6,8 +6,6 @@
 <br/>
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Laravel+Developer;PHP+Full+Stack+Developer;REST+API+Developer;React+%7C+Next.js+Enthusiast;Building+Scalable+Web+Applications" alt="Typing SVG" />
 
-
-
 <br/>
 <a href="https://github.com/dev-saurabh495?tab=followers">
 <img src="https://img.shields.io/github/followers/dev-saurabh495?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/>
