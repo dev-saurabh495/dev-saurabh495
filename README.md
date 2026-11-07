@@ -1,5 +1,4 @@
 <div align="center">
-
 <a href="https://github.com/dev-saurabh495">
 <img src="./assets/banner.svg" width="100%" alt="Saurabh Pandey — Developer Banner" />
 </a>
