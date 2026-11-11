@@ -8,7 +8,6 @@
 <a href="https://github.com/dev-saurabh495?tab=followers">
 <img src="https://img.shields.io/github/followers/dev-saurabh495?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/>
 </a>
-  
 <a href="https://github.com/dev-saurabh495?tab=repositories">
 <img src="https://img.shields.io/badge/Public%20Repos-Explore-2563EB?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
