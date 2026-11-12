@@ -14,7 +14,6 @@
 <img src="https://komarev.com/ghpvc/?username=dev-saurabh495&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge" alt="Open to Collaboration"/>
 
-
 <br/><br/>
 
 Laravel Developer | PHP Full Stack Developer | Problem Solver
