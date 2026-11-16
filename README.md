@@ -54,7 +54,7 @@ currently_learning:
   - System Design
 
 interests:
-  - Scalable Web Applications
+  - 
   - Backend Development
   - API Development
   - Clean Code
