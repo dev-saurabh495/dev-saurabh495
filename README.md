@@ -70,7 +70,7 @@ Languages
 
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp" alt="Languages"/>
+
 </p>
 
 Frontend Development
