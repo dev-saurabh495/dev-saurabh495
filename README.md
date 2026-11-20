@@ -18,7 +18,6 @@
 <img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp" alt="Languages"/>
 <br/><br/>
 
-
 Laravel Developer | PHP Full Stack Developer | Problem Solver
 
 Turning ideas into reliable, scalable and user-friendly web applications.
