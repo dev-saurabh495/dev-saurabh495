@@ -19,7 +19,6 @@
 <br/><br/>
 
 Laravel Developer | PHP Full Stack Developer | Problem Solver
-
 Turning ideas into reliable, scalable and user-friendly web applications.
 
 </div>
