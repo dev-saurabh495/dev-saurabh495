@@ -23,7 +23,6 @@ Turning ideas into reliable, scalable and user-friendly web applications.
 
 </div>
 
-
 👨‍💻 About Me
 yaml
 name: Saurabh Pandey
