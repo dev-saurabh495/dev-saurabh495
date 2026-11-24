@@ -11,9 +11,9 @@ font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=38BDF8&cent
 <img src="https://img.shields.io/github/followers/dev-saurabh495?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub Followers"/>
 </a>
 <a href="https://github.com/dev-saurabh495?tab=repositories">
-
 <img src="https://img.shields.io/badge/Public%20Repos-Explore-2563EB?style=for-the-badge&logo=github" alt="Repositories"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=dev-saurabh495&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile Views"/>
 <img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge" alt="Open to Collaboration"/>
 <img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp" alt="Languages"/>
