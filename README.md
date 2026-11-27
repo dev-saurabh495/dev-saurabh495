@@ -17,7 +17,6 @@ font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=900&color=38BDF8&cent
 <img src="https://skillicons.dev/icons?i=php,js,ts,python,cpp" alt="Languages"/>
 <br/><br/>
 
-
 Laravel Developer | PHP Full Stack Developer | Problem Solver
 
 Turning ideas into reliable, scalable and user-friendly web applications.
